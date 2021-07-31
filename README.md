@@ -1,0 +1,2 @@
+# Drowsiness-Detector
+Drowsiness detector is a detector which helps to detect if a person is drowsy. It is a very useful detector as many road accidents are caused due to sleep driving at night. It is natural that a person will feel sleepy at night, hence people who drive trucks and heavy load vehicle specially at night feel sleepy and tend to drowse which result in different types of car accidents. Hence, we have made an effort to help them and prevent these accidents and make their family members feel relaxed and not worry.
